@@ -10,9 +10,11 @@ a) LANGUAGE BASICS
 1
 
 Write a program that accepts two strings as command line arguments and generate the output in the required format
+
 Example 1:
 
 If the two command line arguments are Wipro and Bangalore then the output generated should be Wipro Technologies Bangalore.
+
 Example 2:
 
 If the command line arguments are ABC and Mumbai then the output generated should be ABC Technologies Mumbai
@@ -22,20 +24,23 @@ Command Line Argument
 2
 
 Write a program to accept string as a command line argument and print a welcome message as given below:
+
 Example 1:
 
 C:\> java Sample John
 
 O/P Expected: Welcome John
-
+Command Line Argument
 3
 
 Write a program to accept two integers as command line arguments and print the sum of the two numbers
+
 Example 1:
 
 C:\>java Sample 10 20
 
 O/P Expected: The sum of 10 and 20 is 30
+Command Line Argument
 
 b) FLOW CONTROL STATEMENTS
 1
@@ -80,7 +85,8 @@ Write a program to print the color name, based on color code. If color code in n
 Switch Statement 	
 9
 
-Write a program to print month in words, based on input month in numbers Example1:
+Write a program to print month in words, based on input month in numbers 
+Example1:
 
  C:\>java Sample 12
 
