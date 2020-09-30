@@ -27,9 +27,10 @@ Write a program to accept string as a command line argument and print a welcome 
 
 Example 1:
 
-C:\> java Sample John
+  C:\> java Sample John
 
-O/P Expected: Welcome John
+  O/P Expected: Welcome John
+
 Command Line Argument
 3
 
@@ -37,9 +38,10 @@ Write a program to accept two integers as command line arguments and print the s
 
 Example 1:
 
-C:\>java Sample 10 20
+  C:\>java Sample 10 20
 
-O/P Expected: The sum of 10 and 20 is 30
+  O/P Expected: The sum of 10 and 20 is 30
+
 Command Line Argument
 
 b) FLOW CONTROL STATEMENTS
@@ -91,11 +93,13 @@ Example1:
  C:\>java Sample 12
 
  O/P Expected : December
+ 
 Example2:
 
  C:\>java Sample 
 
  O/P Expected : Please enter the month in numbers
+ 
 Example3:
 
  C:\>java Sample 15
@@ -132,21 +136,25 @@ Example1:
  C:\>java Sample 
 
  O/P Expected : Please enter an integer number 
+
 Example2:
 
  C:\>java Sample 1
 
  O/P Expected : 1 is neither prime nor composite
+
 Example3:
 
  C:\>java Sample 0
 
  O/P Expected : 0 is neither prime nor composite
+
 Example4:
 
  C:\>java Sample 10
 
  O/P Expected : 10 is not a prime number
+
 Example5:
 
  C:\>java Sample 7
@@ -168,11 +176,13 @@ Example1:
  C:\>java Sample 
 
  O/P Expected : Please enter an integer number
+
 Example1:
 
  C:\>java Sample 3
 
  O/P Expected :
+
                *
                *  * 
                *  *  *
@@ -192,6 +202,7 @@ Example1:
  C:\>java Sample 110011
 
  O/P Expected : 110011 is a palindrome
+
 Example2:
 
  C:\>java Sample 1234
